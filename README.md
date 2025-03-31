@@ -1,6 +1,7 @@
 # React Portfolio
 
 This repository contains the source code for my professional portfolio website, built using React. The portfolio showcases my skills, projects, and experience as a software engineer, with a focus on front-end development.
+https://akula-portfolio.netlify.app/
 
 ## Table of Contents
 
