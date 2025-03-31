@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Shape-Viewer",
+    "imageSrc": "projects/shapeviewer.png",
+    "description": "Shape Viewer is a React.js-based application that allows users to create, view, and manage geometric shapes with dynamic features like drag-and-drop, rotation, and custom file handling",
+    "skills": ["React.js", "JavaScript", "CSS", "HTML", "File Handling", "DOM Manipulation","UI/UX"],
+    "source": "https://github.com/akulasai07/shape-viewer"
+  }
+  ,
+  {
+    "title": "4S Navigation tool extension in Visual Studio Code",
+    "imageSrc": "projects/4s.png",
+    "description": "4S Navigation Tool is a Visual Studio Code extension designed to boost developer productivity with features like Go to Definition, Subword Search, and Stack Overflow Search.",
+    "skills": ["Java", "JavaScript", "TypeScript", "VS Code","VS Code extension API"],
+    "source": "https://github.com/akulasai07/4S-Navigation-tool-extension-in-VS-Code"
+  },
+  {
+    "title": "Learn To Adapt",
+    "imageSrc": "projects/project.png",
+    "description": "It is a PyTorch-based re-implementation of an ACL 2022 paper for Generalized Zero-Shot Text Classification using meta-learning to adapt classifiers for both seen and unseen classes. It supports reproducibility, robustness testing, and multilingual dataset evaluation.",
+    "skills": ["Python", "Jupyter Notebook", "Bash", "BERT Model" ,"GZSL"],
+    "source": "https://github.com/akulasai07/Learn-To-Adapt"
+  },
+  {
+    "title": "AWS-Based Web Development and Deployment",
+    "imageSrc": "projects/awsproj.png",
+    "description": "This is a full-featured web project that enhances user experience through Bootstrap UI, cookie-based personalization, JavaScript form validation, Ajax-ZIP code lookup, and was deployed on AWS for accessibility and scalability.",
+    "skills": ["HTML", "CSS", "Ajax", "JavaScript", "S3" , "EC2","Bootstrap"],
+    "source": "https://github.com/akulasai07/AWS-Based-Web-Development-and-Deployment"
+  },
+  
+  {
+    "title": "Prospective Student Survey Application Development",
+    "imageSrc": "projects/survey.png",
+    "description": "This is a full-stack web application built with Angular, Spring Boot, MySQL, JPA, and JDBC. It features dynamic form handling, personalized greetings, ZIP-based auto-fill using Ajax, and robust validation to deliver a seamless user experience.",
+    "skills": ["TypeScript", "Java", "Angular", "Spring Boot", "SQL"],
+    "source": "https://github.com/akulasai07/Prospective-Student-Survey-Application-Development"
+  },
+  {
+    "title": "Object Information Retrieval in Real-time",
+    "imageSrc": "projects/object.png",
+    "description": "It is an Android application built with TensorFlow Lite and the COCO dataset to detect everyday objects in real time and provide audio feedback, enhancing spatial awareness for blind users.",
+    "skills": ["Python", "CNN", "TensorFlow Lite","COCO model"],
+    "source": "https://github.com/akulasai07/Object-Information-Retrieval-in-Real-time"
+  }
+]

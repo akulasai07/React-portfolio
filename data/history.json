@@ -1,0 +1,24 @@
+[
+  {
+    "role": "Java Full Stack Developer",
+    "organisation": "State Street",
+    "startDate": "January 2024",
+    "endDate": "present",
+    "experiences": ["Spearheaded development of scalable, user-centric web applications using Core Java, Spring Boot, Microservices, and MongoDB—boosting system scalability by 30% and reducing downtime by 20%.",
+"Built responsive, cross-platform front-end interfaces with React.js, Angular.js, HTML, CSS, and JavaScript—driving a 25% increase in user engagement and 98% compatibility across devices.",
+"Optimized server-side logic using JSP, JSTL, and Spring; deployed secure applications on AWS (VPC, EC2, S3, CloudFront, ELB); and implemented Agile practices—cutting deployment cycles by 35% and improving team delivery and infrastructure efficiency. "],
+    "imageSrc": "experience/statestreet.png"
+  },
+  {
+    "role": "Java Full Stack Developer",
+    "organisation": "Intex Technologies",
+    "startDate": "August 2019",
+    "endDate": "June 2019",
+    "experiences": [
+      "Led the development and maintenance of scalable Java-based applications using Java 8, Spring MVC, Hibernate, and JSF, while implementing Waterfall methodologies to ensure clear requirements and on-time project delivery.",
+"Designed interactive web applications using Ajax, JSON, and XML; deployed them on Google Cloud Platform (Compute Engine, Cloud Storage), achieving a 40% reduction in infrastructure costs and improved system scalability.",
+"Ensured high-quality software through JUnit and JMeter testing, efficient database management with MongoDB, and automation of build processes with Gradle—contributing to 95% on-time delivery and 100% client satisfaction across 20+ projects."
+    ],
+    "imageSrc": "experience/intex.png"
+  }
+]
